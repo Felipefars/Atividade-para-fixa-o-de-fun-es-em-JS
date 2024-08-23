@@ -1,1 +1,1 @@
-# Atividade-para-fixa-o-de-fun-es-em-JS
+Atividade para fixação de funções em JS
